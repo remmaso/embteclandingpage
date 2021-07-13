@@ -1,0 +1,38 @@
+{
+    "Header": {
+
+        "title": "...Providing Unique Solutions"
+       
+
+    },
+    
+    "Contact": {
+        "address": "No 6 Eputu-Ogunfayo Rd, Eputu ",
+        "phone": "+234 802 222 2002",
+        "email": "info@embtec.com.ng",
+        "facebook": "https://www.facebook.com/embteckonzultz/",
+        "twitter": "https://twitter.com/embteckonzultz",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
