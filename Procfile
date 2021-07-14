@@ -1,1 +1,1 @@
-"start": "react-scripts start"
+starts: "react-scripts start"
