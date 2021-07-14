@@ -1,1 +1,1 @@
-starts: "react-scripts start"
+web: "react-scripts start"
